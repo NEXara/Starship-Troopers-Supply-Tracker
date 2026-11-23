@@ -1,0 +1,12 @@
+Supply Tracker 1.0.0
+
+Close the game. Run Supply-Tracker-1.0.0-Setup.exe. Select the main game folder containing StarshipTroopers_UBW.exe, then Install / Update. UE4SS is included. EN is default; EN / ไทย selects optional Thai. Use the same installer and Uninstall to remove the mod. Shared UE4SS files stay when other mods need them.
+
+Supplies and ammo/armour crates: icons + distance, more than 10m through 60m. Empty crates hide. Weapons: icon + name + distance within 10m. Up to five markers. Straight-line distance; markers can appear through walls.
+
+Requires Steam build 22832378, Windows 10/11 and .NET Framework 4.8. Tested at 1920x1080. Config: ue4ss/Mods/NearbySupplies/Scripts/config.lua
+
+Other screenshot mods: Squad Status HUD (separate optional mod) https://www.nexusmods.com/starshiptroopersultimatebugwar/mods/15
+Modified insects are experimental model tests, not included and not available to download because they do not work well enough yet.
+
+Made with AI by NEXara. See CREDITS.txt and UE4SS license. User approved 0.1.2 in game; official settings unchanged.

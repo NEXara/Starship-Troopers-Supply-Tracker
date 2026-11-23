@@ -1,0 +1,6 @@
+Supply Tracker 1.0.0
+Made with AI by NEXara.
+UE4SS by the UE4SS-RE team and contributors, MIT license.
+HUD/installer base adapted from Squad Status HUD in this workspace.
+Original game assets belong to their owners; loaded from the installed game, not redistributed.
+Independent community mod, not affiliated with the game creators.
