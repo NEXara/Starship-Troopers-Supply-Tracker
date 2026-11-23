@@ -36,6 +36,6 @@ The modified insect characters are **experimental model tests**. They are not in
 
 ## Credits
 
-Made with AI by NEXara, with user testing and feedback. UE4SS by the UE4SS-RE team and contributors (MIT); its license is included with the bundled loader. Original game content belongs to its owners. Icons and the game font are loaded from the installed game and are not redistributed as mod assets. Independent community mod, not affiliated with the game's creators.
+Made with AI, with user testing and feedback. UE4SS by the UE4SS-RE team and contributors (MIT); its license is included with the bundled loader. Original game content belongs to its owners. Icons and the game font are loaded from the installed game and are not redistributed as mod assets. Independent community mod, not affiliated with the game's creators.
 
 **1.0.0 · 23 November 2026.** Approved in-game by the user from the 0.1.2 candidate. The official release preserves its accepted gameplay/display settings.

@@ -9,4 +9,4 @@ Requires Steam build 22832378, Windows 10/11 and .NET Framework 4.8. Tested at 1
 Other screenshot mods: Squad Status HUD (separate optional mod) https://www.nexusmods.com/starshiptroopersultimatebugwar/mods/15
 Modified insects are experimental model tests, not included and not available to download because they do not work well enough yet.
 
-Made with AI by NEXara. See CREDITS.txt and UE4SS license. User approved 0.1.2 in game; official settings unchanged.
+Made with AI. See CREDITS.txt and UE4SS license. User approved 0.1.2 in game; official settings unchanged.
